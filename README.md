@@ -9,3 +9,4 @@ This project demonstrates the full pipeline of building an AI system including:
 3- Deep Learning model training
 4- Model evaluation and visualization
 5- Model deployment preparation
+<img width="812" height="821" alt="image" src="https://github.com/user-attachments/assets/8e18eea2-8d7d-4241-b94f-6d1ab1020c30" />
